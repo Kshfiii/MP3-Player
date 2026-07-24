@@ -6,6 +6,21 @@
  This is a fully self-contained MP3 Player with onboard LiPo charging, a boost-converted 5V motor supply, and a DFPlayer Mini for audio playback on a custom PCB. 
 
 
+# Usage & Features
+
+  1. Charge via the USB-C port on the XIAO ESP32-C3
+  2. Power on using the slide switch
+  3. short press left button for previous song, long press to increase volume
+  4. short press right button for next song, long press to decrease volume
+  5. Press middle button to pause/play
+
+
+# Hardware Note — Power Architecture
+Attach lipo batter to GND and BATT+ pins on the underside of the Esp32. 
+
+
+# Firmware Files
+Files and their functions:
 
 
 ## Component List
