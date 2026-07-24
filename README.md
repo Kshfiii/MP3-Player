@@ -4,6 +4,12 @@
 
  ## About
  This is a fully self-contained MP3 Player with onboard LiPo charging, a boost-converted 5V motor supply, and a DFPlayer Mini for audio playback on a custom PCB. 
+### Schematics
+
+### PCB 
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/b2feb72c-fadf-4253-b99f-8c2da4b990af" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/c76d1065-42ce-4a70-8d40-de648e02438f" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/1b80b5bf-c5b1-4cbf-beca-895f47fd5739" />
 
 
 ## Usage & Features
