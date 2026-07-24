@@ -3,7 +3,7 @@
  A strawberry-shortcake themed MP3 player built around the DF player mini, and supported by the Xiao Esp32 C3. 
 
  ## About
- This is a fully self-contained MP3 Player with onboard LiPo charging, a boost-converted 5V motor supply, and a DFPlayer Mini for audio playback on a custom PCB. 
+ This is a fully self-contained MP3 Player with onboard LiPo charging, a boost-converted 5V motor supply, and a DFPlayer Mini for audio playback on a custom PCB. The xiao handles the pause/play logic via UART communication with the DF player, it was also used because of the in-built BMS and direct charging support.
 
 ### Schematics
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/71f49582-1600-461b-8a21-90cb123326c1" />
