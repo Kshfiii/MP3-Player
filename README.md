@@ -5,6 +5,19 @@
  ## About
  This is a fully self-contained MP3 Player with onboard LiPo charging, a boost-converted 5V motor supply, and a DFPlayer Mini for audio playback on a custom PCB. 
 
+
+
+
+## Component List
+
+  1. Seeed Studio XIAO ESP32-C3
+  2. DFPlayer Mini (YX5200)
+  3. MT3608 Boost Converter IC
+  4. AMS1117-5.0 LDO Regulator
+  5. 8Ω 1W Speaker
+  6. Tactile Switch
+  7. 3.7V LiPo Battery
+
 ## Bill of Materials
 | Component | Quantity | Est. Cost (USD) | Purchase Links | 
 | :--- | :---: | :--- | :--- | 
