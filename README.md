@@ -16,3 +16,6 @@
 | **Tactile Switch** | 3 | $1.50 | [Link](https://digilog.pk/products/12-x-12mm-x-7-5mm-push-button-in-pakistan-en?variant=44490991370518 )| 
 | **PCB** | 1 | $6.00 | [Link](https://jlcpcb.com/)| 
 | **Total Build Cost:** |  | **~$30.00** |
+
+#
+Happy Building :)
