@@ -6,19 +6,19 @@
  This is a fully self-contained MP3 Player with onboard LiPo charging, a boost-converted 5V motor supply, and a DFPlayer Mini for audio playback on a custom PCB. 
 
 ### Schematics
-<img width="878" height="468" alt="image" src="https://github.com/user-attachments/assets/71f49582-1600-461b-8a21-90cb123326c1" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/71f49582-1600-461b-8a21-90cb123326c1" />
 
 ### PCB 
-<img width="366" height="534" alt="image" src="https://github.com/user-attachments/assets/0d391b64-e90c-4d56-b2c4-abd5767f9f3a" />
-<img width="317" height="530" alt="image" src="https://github.com/user-attachments/assets/797c4320-0ec2-443f-a6b1-ce288a3acc8d" />
-<img width="307" height="520" alt="image" src="https://github.com/user-attachments/assets/421be4e8-32e8-4f08-a45d-e870d0377b0c" />
+<img  height="300" alt="image" src="https://github.com/user-attachments/assets/0d391b64-e90c-4d56-b2c4-abd5767f9f3a" />
+<img  height="300" alt="image" src="https://github.com/user-attachments/assets/797c4320-0ec2-443f-a6b1-ce288a3acc8d" />
+<img  height="300" alt="image" src="https://github.com/user-attachments/assets/421be4e8-32e8-4f08-a45d-e870d0377b0c" />
 
 ### CAD
 [Onshape file](https://cad.onshape.com/documents/b89701995e34a629cb20daf8/w/a087d5ccfa9ba9747f812881/e/695f8d85722ae4ab0145bd85)
 
 
-<img width="710" height="356" alt="image" src="https://github.com/user-attachments/assets/a1597531-48e1-445c-9db6-76ea7f6a9713" />
-<img width="710"  alt="image" src="https://github.com/user-attachments/assets/361a6073-81c6-4869-b7a8-84ad9a7fff78" />
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/a1597531-48e1-445c-9db6-76ea7f6a9713" />
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/361a6073-81c6-4869-b7a8-84ad9a7fff78" />
 
 
 ## Usage & Features
