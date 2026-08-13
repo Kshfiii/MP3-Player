@@ -20,6 +20,8 @@
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/a1597531-48e1-445c-9db6-76ea7f6a9713" />
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/361a6073-81c6-4869-b7a8-84ad9a7fff78" />
 
+## Assembly
+Put the components into their respective spots in the PCB. Put the circular parts into the two holes and then put in the speakers. Add tactile switches to the square placeholder and put the pink buttons on them. Now, add brass inserts onto the back of the Mp3 player and fix the back with screws. 
 
 ## Usage & Features
 
